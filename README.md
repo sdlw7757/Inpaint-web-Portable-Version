@@ -1,6 +1,6 @@
 # Inpaint-web 图像处理应用
 <img width="1452" height="944" alt="捕获" src="https://github.com/user-attachments/assets/cc75343b-4563-4bfa-ac55-883b78da4de9" />
-# 一个可以在没有安装开发环境的电脑上运行的便携式图像处理应用。
+一个可以在没有安装开发环境的电脑上运行的便携式图像处理应用。
 
 ## 📋 目录
 
