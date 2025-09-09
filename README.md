@@ -1,7 +1,6 @@
 # Inpaint-web 图像处理应用
-<img width="1452" height="944" alt="捕获" src="https://github.com/user-attachments/assets/cc75343b-4563-4bfa-ac55-883b78da4de9" />
-
 一个可以在没有安装开发环境的电脑上运行的便携式图像处理应用。
+<img width="1452" height="944" alt="捕获" src="https://github.com/user-attachments/assets/cc75343b-4563-4bfa-ac55-883b78da4de9" />
 
 ## 📋 目录
 
@@ -51,18 +50,18 @@
 ### 图像修复 (Inpainting)
 使用先进的AI模型修复图片中的损坏区域或移除不需要的对象。
 
-### 图像高清化 (Super-Resolution)
+### 图像高清化 (超分辨率)
 通过AI技术将低分辨率图片转换为高分辨率图片，提升图像清晰度。
 
 ## 技术架构
 
 - **前端框架**: React 17
 - **构建工具**: Vite
-- **AI模型**: ONNX格式模型
-- **服务端**: Node.js 内置HTTP服务器
+- **AI模型**：ONNX格式模型
+- **服务端**：Node.js 内置HTTP服务器
 - **图像处理**: OpenCV-TS
 
-## 常见问题及解决方案
+##常见问题及解决方案
 
 ### 1. 如果出现"localhost 拒绝了我们的连接请求"错误:
 - 请等待几秒钟让服务器完全启动
